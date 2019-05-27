@@ -4,7 +4,6 @@ Repository created to submit UCSC CMPM 163 HW 3
 Code and executable links for HW 3 for Cmpm 163 at UCSC
 
 Contents:
-
     Unity Project and Code
     Playable Build Located Here: https://drive.google.com/open?id=1HsKE7voMmT0aByGaRWWj8jwPX9D0ypjR
 
